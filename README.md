@@ -1,7 +1,7 @@
 ---
 
 # Additional Firmware Analysis Findings
-
+bootloader pass #Ux6@9V&4_Rz
 ## Confirmed Video Configuration
 
 Inspection of extracted configuration files revealed:
